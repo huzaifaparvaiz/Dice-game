@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 7rem;
+    margin-top: 55px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  h2 {
+    text-align: center;
+    color: white;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    margin-top: 30px;
+    font-size: 3rem;
+  }
+  
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+  
+    color: #EEEEEE;
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+   
+    margin-top: 120px;
+  
+  }
+  
